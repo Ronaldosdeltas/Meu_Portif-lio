@@ -28,11 +28,13 @@
             <h3>Fale comigo através de:</h3>
             <p>Whatsapp: (88)92812245.</p>
             <h4>ou insira seu e-mail e informe seu desejo, irei responder o mais rápido possivel.</h4>
-            <form></form>
-            <p>E-mail <input class="email" type="text" name="nome" placeholder="Insira seu e-mail"></p>
-
-            <textarea id="text"  placeholder="Digite sua mensagem aqui"></textarea><br />
-            <input id="enviar" type="submit" value="Enviar">
+            <form method="get" action="index.html"></form>
+            <label for="email">e-mail:</label> <!--a criação de um formulario para fazendo o uso do input obter das e informações do cliente.-->
+             <input class="email" type="text" name="nome" placeholder="Insira seu e-mail" id="email">
+<br>    
+            <label for="text">Digite sua mensagem:</label><br>
+            <textarea id="text" name="text"></textarea><br /> <!--textarea com um id para se conectar com a pagina javascript.-->
+            <input id="enviar" type="submit" value="Enviar"> <!--botão sumbmit para fazer o envio das informações do cliente.-->
 
             </form>
              <br /> <br />
