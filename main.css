@@ -37,10 +37,9 @@ text-align: center;
 color: white;
 }
 .imagem{
-    width: 100px;
+    width: 200px;
 }
 .imagem1{
-    object-fit: cover;
     padding: 0px;
     width: 100%;
 }
