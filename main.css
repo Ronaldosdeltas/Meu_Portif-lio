@@ -43,7 +43,7 @@ color: white;
 .imagem1{
     object-fit: cover;
     padding: 0px;
-    width: 100%;
+    width: 200%;
 }
 button{
     background-color:rgb(32, 187, 32);
