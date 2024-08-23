@@ -41,8 +41,7 @@ color: white;
 }
 .imagem1{
     max-width: 100%;
-      background-size:cover;
-    background-repeat: no-repeat;
+    background-size:cover;
     background-attachment: fixed;
     height:auto;
 }
