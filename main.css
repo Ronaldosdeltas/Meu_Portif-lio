@@ -40,10 +40,8 @@ color: white;
     width: 200px;
 }
 .imagem1{
-    width: 10%;
-    background-size:cover;
-    background-attachment: fixed;
-    height:auto;
+    width: 50%;
+  
 }
 button{
     background-color:rgb(32, 187, 32);
