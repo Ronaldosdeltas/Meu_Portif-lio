@@ -40,9 +40,11 @@ color: white;
     width: 200px;
 }
 .imagem1{
-    max-width: 400%;
+    max-width: 100%;
       background-size:cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:auto;
 }
 button{
     background-color:rgb(32, 187, 32);
