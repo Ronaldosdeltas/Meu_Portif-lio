@@ -41,7 +41,6 @@ color: white;
 }
 .imagem1{
     max-width: 400%;
-    object-fit: content;
 }
 button{
     background-color:rgb(32, 187, 32);
