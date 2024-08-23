@@ -40,7 +40,7 @@ color: white;
     width: 200px;
 }
 .imagem1{
-    width: 50%;
+    max-width: 100%;
   
 }
 button{
